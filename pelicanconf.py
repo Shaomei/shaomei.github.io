@@ -18,6 +18,15 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
+
+MENUITEMS = (
+    ('Home', '/pages/home.html'),
+    ('Publications', '/pages/publications.html'),
+    ('Contact', '/pages/contact.html'),
+    )
+
 # Blogroll
 LINKS = (('Google Scholar', 'https://scholar.google.com/citations?user=Y0xVWqYAAAAJ'),
          ('Facebook Research Profile', 'https://research.fb.com/people/wu-shaomei/'),
