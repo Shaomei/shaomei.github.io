@@ -23,6 +23,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
     ('Home', '/pages/home.html'),
+    ('CV', '/pages/curriculum-vitae.html'),
     ('Publications', '/pages/publications.html'),
     ('Contact', '/pages/contact.html'),
     )
