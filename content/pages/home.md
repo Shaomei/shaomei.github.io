@@ -19,9 +19,10 @@ My current areas of research include:
   2. **AI for Empowerment & Equity**: Design and develop AI products and experiences that center on the needs of the marginalized. Deliver tangible benefits and reduce the barrier for participation for those who had been under-served and oppressed. 
 
     - AI & accessibility: Augment AI technology with human abilities to empower people with disabilities to fully participate in and contribute to all aspects of the society without existing physical/mental/societal bariiers. And the [challenges](https://research.fb.com/publications/a-face-recognition-application-for-people-with-visual-impairments-understanding-use-beyond-the-lab/) with (re)designing and reappropriating mainstream AI models for accessibility use case.. 
-<!-- I also consider accessibility at a broader sense beyond disabilities, and interested at building technologies that dismantle all barriers for everyone to participate. -->
+     
+	 <!-- I also consider accessibility at a broader sense beyond disabilities, and interested at building technologies that dismantle all barriers for everyone to participate. -->
 
-    - Human-centered AI: How to engage and incentivize the deep learning community to practice and appreciate participatory design and community experience research in the development cycle of AI and stop equivalizing people as labels or embeddings.
+    - Human-centric AI: How to engage and incentivize the deep learning community to practice and appreciate participatory design and community experience research in the development cycle of AI and stop equivalizing people as labels or embeddings.
 
 
 
@@ -36,8 +37,8 @@ I am a big fan of mixed methodology and embrace both qualitative and quantitativ
 I publish my work at CHI, theWebConf (formerly known as WWW), CSCW, and ICWSM. I frequently review papers and serve in the organization committee for journals and conferences as well.
 
 
-I received my PhD in Information Science from Cornell University, advised by Prof. [Michael Macy](https://sites.google.com/site/michaelmacy14/home), Prof. [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), and Prof. [Dan Cosley](https://www.cs.cornell.edu/~danco/). I am also heavily influenced by [Lada Adamic](http://www.ladamic.com/) and [Prof. Phoebe Sengers](https://www.cs.cornell.edu/people/sengers/), botha world-class computer scientists but with very different research interests and methodology - I am grateful for their mentorship and [teaching](https://www.cs.cornell.edu/people/sengers/Teaching/INFO6341/index.php).
+I received my PhD in Information Science from Cornell University, advised by [Michael Macy](https://sites.google.com/site/michaelmacy14/home), [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), and [Dan Cosley](https://www.cs.cornell.edu/~danco/). I am also heavily influenced by [Lada Adamic](http://www.ladamic.com/) and [Phoebe Sengers](https://www.cs.cornell.edu/people/sengers/), both world-class computer scientists but with very different research interests and methodologies - I am grateful for their mentorship and [teaching](https://www.cs.cornell.edu/people/sengers/Teaching/INFO6341/index.php).
 
-To learn more about our research and publications, you can also visit:
+To learn more about my research and publications, you can also visit:
 
 - [Shaomei Wu's Google Scholar Page](https://scholar.google.com/citations?user=Y0xVWqYAAAAJ) 
