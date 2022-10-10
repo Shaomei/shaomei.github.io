@@ -4,11 +4,15 @@ Date: 2020-03-22
 
 ### AI, HCI, Accessibility
 
+- "The World is Designed for Fluent People": Challenges, Benefits, and Opportunities of Videoconferencing Technologies for People Who Stutter. Shaomei Wu. Under Review. 2022. [[preprint]({static}/pdfs/pws_VC_preprint.pdf)]
+
+- Mapping Language Literacy At Scale: A Case Study on Facebook. Yu-Ru Lin, Shaomei Wu, and Winter Mason. Under Review. 2022.
+
 - [Design and Evaluation of a Social Media Writing Support Tool for People with Dyslexia](https://research.fb.com/publications/design-and-evaluation-of-a-social-media-writing-support-tool-for-people-with-dyslexia/). Shaomei Wu, Lindsay Reynolds, Xian Li, Francisco (Paco) Guzman. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2019) [[pdf](https://research.fb.com/wp-content/uploads/2019/02/Design-and-Evaluation-of-a-Social-Media-Writing-Support-Tool-for-People-with-Dyslexia.pdf)]
 
 - [Addressing the Accessibility of Social Media](https://dl.acm.org/doi/10.1145/3311957.3359439). Cole Gleason, Patrick Carrington, Lydia B Chilton, Benjamin M Gorman, Hernisa Kacorri, Andrés Monroy-Hernández, Meredith Ringel Morris, Garreth W Tigwell, and Shaomei Wu. CSCW 2019 Extended Abstract. [[pdf](https://www.colegleason.com/static/papers/p474-gleason.pdf)]
 
-- [I'm Never Happy with What I Write'': Challenges and Strategies of People with Dyslexia on Social Media](https://research.fb.com/publications/im-never-happy-with-what-i-write-challenges-and-strategies-of-people-with-dyslexia-on-social-media/). Lindsay Reynolds, Shaomei Wu. In Proceedings of the 12th International AAAI Conference on Web and Social Media (ICWSM 2018)}. **Best Paper Runner-up** [[pdf](https://research.fb.com/wp-content/uploads/2018/04/im-never-happy-with-what-i-write-challenges-and-strategies-of-people-with-dyslexia-on-social-media.pdf)]
+- ["I'm Never Happy with What I Write": Challenges and Strategies of People with Dyslexia on Social Media](https://research.fb.com/publications/im-never-happy-with-what-i-write-challenges-and-strategies-of-people-with-dyslexia-on-social-media/). Lindsay Reynolds, Shaomei Wu. In Proceedings of the 12th International AAAI Conference on Web and Social Media (ICWSM 2018)}. **Best Paper Runner-up** [[pdf](https://research.fb.com/wp-content/uploads/2018/04/im-never-happy-with-what-i-write-challenges-and-strategies-of-people-with-dyslexia-on-social-media.pdf)]
 
 - [The Effect of Computer-Generated Descriptions on Photo-Sharing Experiences of People with Visual Impairments](https://research.fb.com/publications/exploring-the-effect-of-computer-generated-descriptions-on-the-photo-sharing-experience-of-people-with-visual-impairments/). Yuhang Zhao, Shaomei Wu, Lindsay Reynolds, Shiri Azenkot. In Proceedings of the 21th ACM Conference on Computer-Supported Cooperative Work \& Social Computing (CSCW 2018). [[pdf](https://research.fb.com/wp-content/uploads/2018/01/aatcomposer_cscw_cameraready_final_large-1.pdf)] [[blog post](https://research.fb.com/blog/2018/11/using-ai-to-help-people-with-visual-impairments-share-images-on-facebook/)]
 
