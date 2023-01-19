@@ -4,7 +4,7 @@ Date: 2020-03-22
 
 ### AI, HCI, Accessibility
 
-- "The World is Designed for Fluent People": Benefits and Challenges of Videoconferencing Technologies for People Who Stutter. Shaomei Wu. Under Review. 2022. [[preprint]({static}/pdfs/pws_VC_preprint.pdf)]
+- "The World is Designed for Fluent People": Benefits and Challenges of Videoconferencing Technologies for People Who Stutter. Shaomei Wu. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2023). [[preprint]({static}/pdfs/Stuttering_VC_preprint.pdf)]
 
 - Mapping Language Literacy At Scale: A Case Study on Facebook. Yu-Ru Lin, Shaomei Wu, and Winter Mason. Under Review. 2022.
 
