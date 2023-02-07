@@ -18,7 +18,7 @@ Here are some of my recent and upcoming speaking events.
 
 - **AI and the Empowerment of People with Disabilities**. Invited talk at [SheTek Women's Tech Conference](https://shetek.bizligo.com/event/details/shetek-women-s-tech-conference-2022-day-1-in-person-day-2-virtual/90). Nov 3, 2022. [[Slides]({static}/pdfs/shetek_deck.pdf)]
 
-- **Coming Out of Stuttering Closet** (in Chinese). Invited speaker at [International Stuttering Awareness Day Chinese Community Conference](https://mp.weixin.qq.com/s/VsP0hTNt4cF_1D62G9bB1A). Oct 22, 2022.
+- **Acceptance and Empowerment as a Person Who Stutters** (in Chinese). Invited speaker at [International Stuttering Awareness Day Chinese Community Conference](https://mp.weixin.qq.com/s/VsP0hTNt4cF_1D62G9bB1A). Oct 22, 2022.
 
 - **From Silicon Vally Scientist to Founder of Nonprofit Organization** (in Chinese). Video Interview by 口吃说 Stammer Talk. Oct 11, 2022. [[Recording and summary](https://mp.weixin.qq.com/s/iOs2A-e_w3lacASZRilQ9A)]
 
