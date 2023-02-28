@@ -4,6 +4,8 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
+- **AI and the Systematic Marginalization of People with Disabilities**. Guest Lecture at [University of Ottawa](https://www.uottawa.ca/en) CSI5195/ELG5295/IAI5130 *Ethics for Artificial Intelligenc*e (winter 2023). Mar 8, 2023. [[slides]({static}/pdfs/AI_and_the_marginalization_of_PwD.pdf)]
+
 - **Break the Invisible Wall: Challenges and Opportunities for People Who Stutter to Participate in In-person and Virtual Conferences**. [Organizer Seminar Series](https://www.virtualchair.net/organizer-seminar-series) hosted by [Virtual Chair](https://www.virtualchair.net/). Jan 24, 2023. [[Video](https://youtu.be/mJNQkXNImXU), [slides](https://www.canva.com/design/DAFYQhWgVPQ/U59jxPTsj6_TR-3lHLGIVQ/view?website#4:title-page)]
 
 - **AI and Accessibility** (in Chinese). Featured at podcast by [扩博智聊 (Clobotics)](https://clobotics.com/). Jan 19, 2023.
