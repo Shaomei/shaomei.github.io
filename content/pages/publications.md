@@ -3,10 +3,11 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
+- "Translation Tutorial: Inclusive and Fair Automatic Speech Recognition with People Who Stutter". Shaomei Wu, Y. Scott Yaruss, Rong Gong, Ann Marie Ryan, Hope Gerlach-Houck, Caryn Herring, and Nihar R. Mahapatra. Submitted to ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT). Under Review. 2023. [[pdf]({static}/pdfs/FAccT23_tutorial_submission.pdf)]
 
 - "The World is Designed for Fluent People": Benefits and Challenges of Videoconferencing Technologies for People Who Stutter. Shaomei Wu. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2023). [[preprint]({static}/pdfs/Stuttering_VC_preprint.pdf)]
 
-- Mapping Language Literacy At Scale: A Case Study on Facebook. Yu-Ru Lin, Shaomei Wu, and Winter Mason. Under Review. 2022.
+- Mapping Language Literacy At Scale: A Case Study on Facebook. Yu-Ru Lin, Shaomei Wu, and Winter Mason. Under Review. 2022. [[preprint]({static}/pdfs/FB_literacy_worldwide.pdf), [supplementary materials]({static}/pdfs/FB_literacy_worldwide_supp.pdf)]
 
 - [Design and Evaluation of a Social Media Writing Support Tool for People with Dyslexia](https://research.fb.com/publications/design-and-evaluation-of-a-social-media-writing-support-tool-for-people-with-dyslexia/). Shaomei Wu, Lindsay Reynolds, Xian Li, Francisco (Paco) Guzman. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2019) [[pdf](https://research.fb.com/wp-content/uploads/2019/02/Design-and-Evaluation-of-a-Social-Media-Writing-Support-Tool-for-People-with-Dyslexia.pdf)]
 
