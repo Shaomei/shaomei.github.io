@@ -4,6 +4,14 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
+- **Claim Your Virtual Presence**. Workshop organizer and moderator. National Stuttering Associate Annual Conference. Jul 6, 2023. [[Summary](https://aimpower.org/2023/07/25/stuttering-and-video-conferencing-strategies-and-best-practices/), [Handout](https://aimpowerorg.files.wordpress.com/2023/07/videoconferencing_and_stuttering_best_practices.pdf)]
+
+- **人工智能数据标注行业扫描~(AI Data Annotation Industry)** (in Chinese). Invited speaker at 奇途无障碍 - 数字经济与残障女性就业分享第05期~(Digital Economy and Employment Opportunities for Women with Disabilities Forum Vol. 05). May 6, 2023.
+
+- **"The World is Designed for Fluent People":Benefits and Challenges of Videoconferencing Technologies for People Who Stutter**. Paper presentation at CHI '23. Apr 26, 2023. [[Video](https://youtu.be/TFmdxGvEliE), [Slides](https://aimpowerorg.files.wordpress.com/2023/04/chi-2023-stuttering-and-vc.pdf)]
+
+- **Sociotechnical Challenges in Voice-Activated AI**. Panelist at Michigan State University, [Voice-Activated AI for Stuttered Speech Convergence Symposium](https://stutteringlab.msu.edu/HeardAI/). Apr 14, 2023.
+
 - **Designing Empowering Technologies for and with Marginalized Communities**. Computational Media Department Seminar at University of California, Santa Cruz. Mar 20, 2023. [[Slides]({static}/pdfs/Shaomei_UCSC_CM_seminar_deck.pdf)]
 
 - **AI and the Systematic Marginalization of People with Disabilities**. Guest Lecture at [University of Ottawa](https://www.uottawa.ca/en) CSI5195/ELG5295/IAI5130 *Ethics for Artificial Intelligenc*e (winter 2023). Mar 8, 2023. [[Video](https://youtu.be/Uv0RIMA9xSo), [Slides]({static}/pdfs/AI_and_the_marginalization_of_PwD.pdf)]

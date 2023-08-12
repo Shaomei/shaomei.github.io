@@ -3,11 +3,10 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
-- "Translation Tutorial: Inclusive and Fair Automatic Speech Recognition with People Who Stutter". Shaomei Wu, Y. Scott Yaruss, Rong Gong, Ann Marie Ryan, Hope Gerlach-Houck, Caryn Herring, and Nihar R. Mahapatra. Submitted to ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT). Under Review. 2023. [[pdf]({static}/pdfs/FAccT23_tutorial_submission.pdf)]
+- "Translation Tutorial: Inclusive and Fair Automatic Speech Recognition with People Who Stutter". Shaomei Wu, Y. Scott Yaruss, Rong Gong, Ann Marie Ryan, Hope Gerlach-Houck, Caryn Herring, and Nihar R. Mahapatra. Tutorial Proposal. 2023. [[pdf]({static}/pdfs/FAccT23_tutorial_submission.pdf)]
 
-- "The World is Designed for Fluent People": Benefits and Challenges of Videoconferencing Technologies for People Who Stutter. Shaomei Wu. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2023). [[preprint]({static}/pdfs/Stuttering_VC_preprint.pdf)]
+- "The World is Designed for Fluent People": Benefits and Challenges of Videoconferencing Technologies for People Who Stutter. Shaomei Wu. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2023). [[preprint]({static}/pdfs/Stuttering_VC_preprint.pdf), [video](https://youtu.be/TFmdxGvEliE), [slides](https://aimpowerorg.files.wordpress.com/2023/04/chi-2023-stuttering-and-vc.pdf)]
 
-- Mapping Language Literacy At Scale: A Case Study on Facebook. Yu-Ru Lin, Shaomei Wu, and Winter Mason. Under Review. 2022. [[preprint]({static}/pdfs/FB_literacy_worldwide.pdf), [supplementary materials]({static}/pdfs/FB_literacy_worldwide_supp.pdf)]
 
 - [Design and Evaluation of a Social Media Writing Support Tool for People with Dyslexia](https://research.fb.com/publications/design-and-evaluation-of-a-social-media-writing-support-tool-for-people-with-dyslexia/). Shaomei Wu, Lindsay Reynolds, Xian Li, Francisco (Paco) Guzman. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2019) [[pdf](https://research.fb.com/wp-content/uploads/2019/02/Design-and-Evaluation-of-a-Social-Media-Writing-Support-Tool-for-People-with-Dyslexia.pdf)]
 
@@ -27,7 +26,8 @@ Date: 2020-03-22
 
 
 
-### Viralness & Social networks
+### Social Media and Data Science
+- Mapping Language Literacy At Scale: A Case Study on Facebook. Yu-Ru Lin, Shaomei Wu, and Winter Mason. EPJ Data Sci. 12, 13 (2023). [[Open Access](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00388-4), [pdf](https://epjdatascience.springeropen.com/counter/pdf/10.1140/epjds/s13688-023-00388-4.pdf)]
 
 - [The Lifecycles of Apps in a Social Ecosystem](https://research.fb.com/publications/the-lifecycles-of-apps-in-a-social-ecosystem/). Isabel Kloumann, Lada Adamic, Jon Kleinberg, and Shaomei Wu. In Proceedings of the 24th International World Wide Web Conference (WWW 2015). [[pdf](https://research.fb.com/wp-content/uploads/2016/11/the_lifecycles_of_apps_in_a_social_ecosystem.pdf)]
 
