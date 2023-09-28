@@ -3,7 +3,11 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
-- "Translation Tutorial: Inclusive and Fair Automatic Speech Recognition with People Who Stutter". Shaomei Wu, Y. Scott Yaruss, Rong Gong, Ann Marie Ryan, Hope Gerlach-Houck, Caryn Herring, and Nihar R. Mahapatra. Tutorial Proposal. 2023. [[pdf]({static}/pdfs/FAccT23_tutorial_submission.pdf)]
+- “I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data. Qisheng Li, Shaomei Wu. Under Review. 2023. [[manuscript]({static}/pdfs/stammertalk_CHI24_manuscript.pdf)]
+
+- Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for a Person Who Stutters. Shaomei Wu, Jingjin Li, and Gilly Leshed. Under Review. 2023. [[manuscript]({static}/pdfs/VC_autoethnography_CHI24_manuscript.pdf)]
+
+- Conference Tutorial: Inclusive and Fair Automatic Speech Recognition with People Who Stutter. Shaomei Wu, Y. Scott Yaruss, Rong Gong, Ann Marie Ryan, Hope Gerlach-Houck, Caryn Herring, and Nihar R. Mahapatra. Tutorial Proposal. 2023. [[pdf]({static}/pdfs/FAccT23_tutorial_submission.pdf)]
 
 - "The World is Designed for Fluent People": Benefits and Challenges of Videoconferencing Technologies for People Who Stutter. Shaomei Wu. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2023). [[preprint]({static}/pdfs/Stuttering_VC_preprint.pdf), [video](https://youtu.be/TFmdxGvEliE), [slides](https://aimpowerorg.files.wordpress.com/2023/04/chi-2023-stuttering-and-vc.pdf)]
 
