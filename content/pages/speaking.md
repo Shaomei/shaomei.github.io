@@ -4,9 +4,15 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
+- **Blocked by the System: How Current Voice AI Silences People Who Stutter**. Panel presentation. American Association for Advancement in Science (AAAS) Annual Meeting. Denver, Colorado. Feb 16, 2024. [[Abstract](https://aaas.confex.com/aaas/2024/meetingapp.cgi/Paper/32042)]  
+
+- **Stuttering community can create their own technological future.**. Part of online exhition *Multiverse: Disability, Technology, and Co-created Futures* curated by Tsinghua University Science Museum & MIT Museum. Dec 2, 2023. [[Link](https://www.disability-tech.net/en/hiddenfigures2)]
+
+- **International Stuttering Awareness Day**. Keynote speaker by 口吃说 (StammerTalk). Oct 21, 2023.
+
 - **Claim Your Virtual Presence**. Workshop organizer and moderator. National Stuttering Associate Annual Conference. Jul 6, 2023. [[Summary](https://aimpower.org/2023/07/25/stuttering-and-video-conferencing-strategies-and-best-practices/), [Handout](https://aimpowerorg.files.wordpress.com/2023/07/videoconferencing_and_stuttering_best_practices.pdf)]
 
-- **人工智能数据标注行业扫描~(AI Data Annotation Industry)** (in Chinese). Invited speaker at 奇途无障碍 - 数字经济与残障女性就业分享第05期~(Digital Economy and Employment Opportunities for Women with Disabilities Forum Vol. 05). May 6, 2023.
+- **人工智能数据标注行业扫描~(AI Data Annotation Industry)** (in Chinese). Invited speaker at 奇途无障碍 - 数字经济与残障女性就业分享第05期~(Digital Economy and Employment Opportunities for Women with Disabilities Forum Vol. 05). May 6, 2023. [[Text summary](https://mp.weixin.qq.com/s/bFYwzcj-gwtoswyZBgfrdA)]
 
 - **"The World is Designed for Fluent People":Benefits and Challenges of Videoconferencing Technologies for People Who Stutter**. Paper presentation at CHI '23. Apr 26, 2023. [[Video](https://youtu.be/TFmdxGvEliE), [Slides](https://aimpowerorg.files.wordpress.com/2023/04/chi-2023-stuttering-and-vc.pdf)]
 
