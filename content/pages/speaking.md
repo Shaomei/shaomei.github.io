@@ -6,7 +6,7 @@ Here are some of my recent and upcoming speaking events.
 
 - **Blocked by the System: How Current Voice AI Silences People Who Stutter**. Panel presentation. American Association for Advancement in Science (AAAS) Annual Meeting. Denver, Colorado. Feb 16, 2024. [[Abstract](https://aaas.confex.com/aaas/2024/meetingapp.cgi/Paper/32042)]  
 
-- **Stuttering community can create their own technological future.**. Part of online exhition *Multiverse: Disability, Technology, and Co-created Futures* curated by Tsinghua University Science Museum & MIT Museum. Dec 2, 2023. [[Link](https://www.disability-tech.net/en/hiddenfigures2)]
+- **Stuttering community can create their own technological future.**. Part of online exhibition *Multiverse: Disability, Technology, and Co-created Futures* curated by Tsinghua University Science Museum & MIT Museum. Dec 2, 2023. [[Link](https://www.disability-tech.net/en/hiddenfigures2)]
 
 - **International Stuttering Awareness Day**. Keynote speaker by 口吃说 (StammerTalk). Oct 21, 2023.
 
