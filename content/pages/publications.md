@@ -3,13 +3,15 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
+- Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking. Qisheng Li, Shaomei Wu. Under Review. 2024. [[manuscript]({static}/pdfs/CHI_LBW_stuttered_speech_benchmark.pdf)]
+
 - “I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data. Qisheng Li, Shaomei Wu. Under Review. 2024. [[manuscript]({static}/pdfs/CSCW_stuttered_speech_data_collection_manuscript.pdf)]
 
 - Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for a Person Who Stutters. Shaomei Wu, Jingjin Li, and Gilly Leshed. Accepted by CHI 2024. [[preprint]({static}/pdfs/VC_autoethnography_chi24_preprint.pdf)]
 
 - Conference Tutorial: Inclusive and Fair Automatic Speech Recognition with People Who Stutter. Shaomei Wu, Y. Scott Yaruss, Rong Gong, Ann Marie Ryan, Hope Gerlach-Houck, Caryn Herring, and Nihar R. Mahapatra. Tutorial Proposal. 2023. [[pdf]({static}/pdfs/FAccT23_tutorial_submission.pdf)]
 
-- "The World is Designed for Fluent People": Benefits and Challenges of Videoconferencing Technologies for People Who Stutter. Shaomei Wu. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2023). [[preprint]({static}/pdfs/Stuttering_VC_preprint.pdf), [video](https://youtu.be/TFmdxGvEliE), [slides](https://aimpowerorg.files.wordpress.com/2023/04/chi-2023-stuttering-and-vc.pdf)]
+- ["The World is Designed for Fluent People": Benefits and Challenges of Videoconferencing Technologies for People Who Stutter](https://dl.acm.org/doi/abs/10.1145/3544548.3580788). Shaomei Wu. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2023). [[preprint]({static}/pdfs/Stuttering_VC_preprint.pdf), [video](https://youtu.be/TFmdxGvEliE), [slides](https://aimpowerorg.files.wordpress.com/2023/04/chi-2023-stuttering-and-vc.pdf)]
 
 
 - [Design and Evaluation of a Social Media Writing Support Tool for People with Dyslexia](https://research.fb.com/publications/design-and-evaluation-of-a-social-media-writing-support-tool-for-people-with-dyslexia/). Shaomei Wu, Lindsay Reynolds, Xian Li, Francisco (Paco) Guzman. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2019) [[pdf](https://research.fb.com/wp-content/uploads/2019/02/Design-and-Evaluation-of-a-Social-Media-Writing-Support-Tool-for-People-with-Dyslexia.pdf)]
