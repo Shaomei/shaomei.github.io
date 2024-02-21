@@ -4,7 +4,7 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
-- **Blocked by the System: How Current Voice AI Silences People Who Stutter**. Panel presentation. American Association for Advancement in Science (AAAS) Annual Meeting. Denver, Colorado. Feb 16, 2024. [[Abstract](https://aaas.confex.com/aaas/2024/meetingapp.cgi/Paper/32042)]  
+- **Blocked by the System: How Current Voice AI Silences People Who Stutter**. Panel presentation. American Association for Advancement in Science (AAAS) Annual Meeting. Denver, Colorado. Feb 16, 2024. [[Abstract](https://aaas.confex.com/aaas/2024/meetingapp.cgi/Paper/32042), [Slides](https://aimpower.org/wp-content/uploads/2024/02/AAAS-Shaomei.pdf)]  
 
 - **The Value and Value System of AI**. Invited speaker at 奇途无障碍 - 人工智能下的残障女性就业 (Seminar: Employment Opportunities for Women with Disabilities in AI Era). Jan 28, 2024. [[Slides](https://www.canva.com/design/DAF7HKRPQxU/Yn55FCyuoG0aMQ2qeyDtKg/view?utm_content=DAF7HKRPQxU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)]
 
