@@ -7,7 +7,7 @@ Date: 2020-03-22
 
 - “I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data. Qisheng Li, Shaomei Wu. Under Review. 2024. [[manuscript]({static}/pdfs/CSCW_stuttered_speech_data_collection_manuscript.pdf)]
 
-- Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for a Person Who Stutters. Shaomei Wu, Jingjin Li, and Gilly Leshed. Accepted by CHI 2024. [[preprint]({static}/pdfs/VC_autoethnography_chi24_preprint.pdf)]
+- Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for a Person Who Stutters. Shaomei Wu, Jingjin Li, and Gilly Leshed. Accepted by CHI 2024. [[pdf]({static}/pdfs/autoethnography-chi24-final.pdf)]
 
 - Conference Tutorial: Inclusive and Fair Automatic Speech Recognition with People Who Stutter. Shaomei Wu, Y. Scott Yaruss, Rong Gong, Ann Marie Ryan, Hope Gerlach-Houck, Caryn Herring, and Nihar R. Mahapatra. Tutorial Proposal. 2023. [[pdf]({static}/pdfs/FAccT23_tutorial_submission.pdf)]
 
