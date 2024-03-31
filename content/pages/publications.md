@@ -3,11 +3,11 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
-- Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking. Qisheng Li, Shaomei Wu. Under Review. 2024. [[manuscript]({static}/pdfs/CHI_LBW_stuttered_speech_benchmark.pdf)]
-
 - “I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data. Qisheng Li, Shaomei Wu. Under Review. 2024. [[manuscript]({static}/pdfs/CSCW_stuttered_speech_data_collection_manuscript.pdf)]
 
-- Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for a Person Who Stutters. Shaomei Wu, Jingjin Li, and Gilly Leshed. Accepted by CHI 2024. [[pdf]({static}/pdfs/autoethnography-chi24-final.pdf)]
+- Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking. Qisheng Li, Shaomei Wu. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’24). [[pdf]({static}/pdfs/CHI24-stuttered-speech-dataset.pdf)]
+
+- Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for a Person Who Stutters. Shaomei Wu, Jingjin Li, and Gilly Leshed. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2024). [[pdf]({static}/pdfs/autoethnography-chi24-final.pdf)]
 
 - Conference Tutorial: Inclusive and Fair Automatic Speech Recognition with People Who Stutter. Shaomei Wu, Y. Scott Yaruss, Rong Gong, Ann Marie Ryan, Hope Gerlach-Houck, Caryn Herring, and Nihar R. Mahapatra. Tutorial Proposal. 2023. [[pdf]({static}/pdfs/FAccT23_tutorial_submission.pdf)]
 
