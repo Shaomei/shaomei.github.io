@@ -3,7 +3,10 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
+
 - “I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data. Qisheng Li, Shaomei Wu. Under Review. 2024. [[manuscript]({static}/pdfs/CSCW_stuttered_speech_data_collection_manuscript.pdf)]
+
+- Re-envisioning Remote Meetings: Co-designing Inclusive and Empowering Videoconferencing with People Who Stutter. Jingjin Li, Shaomei Wu, and Gilly Leshed. In Designing Interactive Systems Conference (DIS 2024). [[Preprint]({static}/pdfs/DIS24-InclusiveVC-Preprint.pdf)]
 
 - Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking. Qisheng Li, Shaomei Wu. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’24). [[pdf]({static}/pdfs/CHI24-stuttered-speech-dataset.pdf)]
 
