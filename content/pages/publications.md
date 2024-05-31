@@ -4,13 +4,13 @@ Date: 2020-03-22
 
 ### AI, HCI, Accessibility
 
-- “I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data. Qisheng Li, Shaomei Wu. Under Review. 2024. [[manuscript]({static}/pdfs/CSCW_stuttered_speech_data_collection_manuscript.pdf)]
+- “I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data. Qisheng Li, Shaomei Wu. Under Review. 2024. [[preprint]({static}/pdfs/CSCW_stuttered_speech_preprint.pdf)]
 
 - Re-envisioning Remote Meetings: Co-designing Inclusive and Empowering Videoconferencing with People Who Stutter. Jingjin Li, Shaomei Wu, and Gilly Leshed. In Designing Interactive Systems Conference (DIS 2024). [[Preprint]({static}/pdfs/DIS24-InclusiveVC-Preprint.pdf)]
 
-- Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking. Qisheng Li, Shaomei Wu. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’24). [[pdf]({static}/pdfs/CHI24-stuttered-speech-dataset.pdf)]
+- [Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking](https://dl.acm.org/doi/10.1145/3613905.3650950). Qisheng Li, Shaomei Wu. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’24). [[pdf]({static}/pdfs/CHI24-stuttered-speech-dataset.pdf)]
 
-- Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for a Person Who Stutters. Shaomei Wu, Jingjin Li, and Gilly Leshed. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2024). [[pdf]({static}/pdfs/autoethnography-chi24-final.pdf)]
+- [Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for a Person Who Stutters](https://dl.acm.org/doi/full/10.1145/3613904.3642746). Shaomei Wu, Jingjin Li, and Gilly Leshed. In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2024). [[pdf]({static}/pdfs/autoethnography-chi24-final.pdf)] [[slides]({static}/pdfs/chi2024_autoethnography_slides.pdf)] [[video](https://youtu.be/A3AF4JSj4QE?feature=shared)]
 
 - Conference Tutorial: Inclusive and Fair Automatic Speech Recognition with People Who Stutter. Shaomei Wu, Y. Scott Yaruss, Rong Gong, Ann Marie Ryan, Hope Gerlach-Houck, Caryn Herring, and Nihar R. Mahapatra. Tutorial Proposal. 2023. [[pdf]({static}/pdfs/FAccT23_tutorial_submission.pdf)]
 

@@ -4,6 +4,10 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
+- **AI and People with Disabilities**. Guest Lecture at Stanford University [CS-377Q/ME-214](https://canvas.stanford.edu/courses/188170) *Designing for Accessibility* (Spring 2024). May 23, 2024. [[Slides]({static}/pdfs/shaomei_stanford_lecture.pdf)]
+
+- **Finding My Voice over Zoom: An Autoethnography of Videoconferencing Experience for a Person Who Stutters**. Paper presentation at CHI '24. May 14, 2024. Honolulu, Hawaii. [[Video](https://youtu.be/A3AF4JSj4QE?feature=shared)] [[Slides]({static}/pdfs/chi2024_autoethnography_slides.pdf)]
+
 - **Blocked by the System: How Current Voice AI Silences People Who Stutter**. Panel presentation. American Association for Advancement in Science (AAAS) Annual Meeting. Denver, Colorado. Feb 16, 2024. [[Abstract](https://aaas.confex.com/aaas/2024/meetingapp.cgi/Paper/32042), [Slides](https://aimpower.org/wp-content/uploads/2024/02/AAAS-Shaomei.pdf)]  
 
 - **The Value and Value System of AI**. Invited speaker at 奇途无障碍 - 人工智能下的残障女性就业 (Seminar: Employment Opportunities for Women with Disabilities in AI Era). Jan 28, 2024. [[Slides](https://www.canva.com/design/DAF7HKRPQxU/Yn55FCyuoG0aMQ2qeyDtKg/view?utm_content=DAF7HKRPQxU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)]
@@ -16,13 +20,13 @@ Here are some of my recent and upcoming speaking events.
 
 - **人工智能数据标注行业扫描~(AI Data Annotation Industry)** (in Chinese). Invited speaker at 奇途无障碍 - 数字经济与残障女性就业分享第05期~(Digital Economy and Employment Opportunities for Women with Disabilities Forum Vol. 05). May 6, 2023. [[Text summary](https://mp.weixin.qq.com/s/bFYwzcj-gwtoswyZBgfrdA)]
 
-- **"The World is Designed for Fluent People":Benefits and Challenges of Videoconferencing Technologies for People Who Stutter**. Paper presentation at CHI '23. Apr 26, 2023. [[Video](https://youtu.be/TFmdxGvEliE), [Slides](https://aimpowerorg.files.wordpress.com/2023/04/chi-2023-stuttering-and-vc.pdf)]
+- **"The World is Designed for Fluent People":Benefits and Challenges of Videoconferencing Technologies for People Who Stutter**. Paper presentation at CHI '23. Apr 26, 2023. Hamburg, Germany.[[Video](https://youtu.be/TFmdxGvEliE), [Slides](https://aimpowerorg.files.wordpress.com/2023/04/chi-2023-stuttering-and-vc.pdf)]
 
 - **Sociotechnical Challenges in Voice-Activated AI**. Panelist at Michigan State University, [Voice-Activated AI for Stuttered Speech Convergence Symposium](https://stutteringlab.msu.edu/HeardAI/). Apr 14, 2023.
 
 - **Designing Empowering Technologies for and with Marginalized Communities**. Computational Media Department Seminar at University of California, Santa Cruz. Mar 20, 2023. [[Slides]({static}/pdfs/Shaomei_UCSC_CM_seminar_deck.pdf)]
 
-- **AI and the Systematic Marginalization of People with Disabilities**. Guest Lecture at [University of Ottawa](https://www.uottawa.ca/en) CSI5195/ELG5295/IAI5130 *Ethics for Artificial Intelligenc*e (winter 2023). Mar 8, 2023. [[Video](https://youtu.be/Uv0RIMA9xSo), [Slides]({static}/pdfs/AI_and_the_marginalization_of_PwD.pdf)]
+- **AI and the Systematic Marginalization of People with Disabilities**. Guest Lecture at [University of Ottawa](https://www.uottawa.ca/en) CSI5195/ELG5295/IAI5130 *Ethics for Artificial Intelligence* (Winter 2023). Mar 8, 2023. [[Video](https://youtu.be/Uv0RIMA9xSo), [Slides]({static}/pdfs/AI_and_the_marginalization_of_PwD.pdf)]
 
 - **Break the Invisible Wall: Challenges and Opportunities for People Who Stutter to Participate in In-person and Virtual Conferences**. [Organizer Seminar Series](https://www.virtualchair.net/organizer-seminar-series) hosted by [Virtual Chair](https://www.virtualchair.net/). Jan 24, 2023. [[Video](https://youtu.be/mJNQkXNImXU), [slides](https://www.canva.com/design/DAFYQhWgVPQ/U59jxPTsj6_TR-3lHLGIVQ/view?website#4:title-page)]
 
