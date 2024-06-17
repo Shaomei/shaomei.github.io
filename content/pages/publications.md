@@ -4,7 +4,9 @@ Date: 2020-03-22
 
 ### AI, HCI, Accessibility
 
-- “I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data. Qisheng Li, Shaomei Wu. Under Review. 2024. [[preprint]({static}/pdfs/CSCW_stuttered_speech_preprint.pdf)]
+- AS-70: A Mandarin stuttered speech dataset for automatic speech recognition and stuttering event detection. Rong Gong, Hongfei Xue, Lezhi Wang, Xin Xu, Qisheng Li, Lei Xie, Hui Bu, Shaomei Wu, Jiaming Zhou, Yong Qin, Binbin Zhang, Jun Du, Jia Bin, Ming Li. To appear in the Proceedings of the InterSpeech Conference. 2024. [[preprint]{http://arxiv.org/abs/2406.07256}]
+
+- “I Want to Publicize My Stutter”: Community-led Collection and Curation of Chinese Stuttered Speech Data. Qisheng Li, Shaomei Wu. To appear in Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). 2024. [[preprint]({static}/pdfs/CSCW_stuttered_speech_preprint.pdf)]
 
 - Re-envisioning Remote Meetings: Co-designing Inclusive and Empowering Videoconferencing with People Who Stutter. Jingjin Li, Shaomei Wu, and Gilly Leshed. In Designing Interactive Systems Conference (DIS 2024). [[Preprint]({static}/pdfs/DIS24-InclusiveVC-Preprint.pdf)]
 
