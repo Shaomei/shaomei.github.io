@@ -4,6 +4,8 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
+- **Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking**. Lighting talk at Workshop on Human Centered Machine Learning, hosted by Apple. Aug 8, 2024. Cupertino, CA. [[Slides](https://mycanvaaimpower.my.canva.site/hcml-workshop-lighting-talk), [Video](https://www.canva.com/design/DAGMABGVroU/hn56IYATdWcZxr0aqH7eOg/view?utm_content=DAGMABGVroU&utm_campaign=designshare&utm_medium=link&utm_source=editor#10)]
+
 - **AI的陰暗面：繁榮背後的殘障人士困境 (The Dark Side of AI: The Struggle of Disabled People Behind the Boom)** （in Chinese). Jun 23, 2024. Featured at Podcast [牛油果烤麵包 (Avocado Toast)](https://podcasts.apple.com/us/podcast/%E7%89%9B%E6%B2%B9%E6%9E%9C%E7%83%A4%E9%9D%A2%E5%8C%85/id1479918340). [[Episode #129](https://avocadotoast.typlog.io/episodes/aidisability)]
 
 - **AI and People with Disabilities**. Guest Lecture at Stanford University [CS-377Q/ME-214](https://canvas.stanford.edu/courses/188170) *Designing for Accessibility* (Spring 2024). May 23, 2024. [[Slides]({static}/pdfs/shaomei_stanford_lecture.pdf)]
