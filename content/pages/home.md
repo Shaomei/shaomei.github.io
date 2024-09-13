@@ -4,7 +4,9 @@ Date: 2022-10-10
 
 Hi, I'm Shaomei Wu. I study, design, and build technologies with marginalized communities to dismantle barriers and seek social justice. My work takes place at the intersection of community, technology, and advocacy, and I am particularly interested in understanding and challenging structural marginalization materialized through current and emerging technologies.
 
-I am a fan of [Afsaneh Rigot](https://cyber.harvard.edu/people/afsaneh-rigot)‘s [Design From the Margins](https://www.belfercenter.org/sites/default/files/files/publication/TAPP-Afsaneh_Design%20From%20the%20Margins_Final_220514.pdf) approach and frequently shift my focus between community research, intervention development, and social advocacy, depending on the needs of the community and the stage of the engagement. My current work looks into [stuttering and telecommunication technologies](https://www.shaomei.info/pdfs/Stuttering_VC_preprint.pdf), investigating the experiences and challenges of people who stutter with telecommunication technologies such as videoconferencing tools and voice operated interfaces.
+I am a fan of [Afsaneh Rigot](https://cyber.harvard.edu/people/afsaneh-rigot)‘s [Design From the Margins](https://www.belfercenter.org/sites/default/files/files/publication/TAPP-Afsaneh_Design%20From%20the%20Margins_Final_220514.pdf) approach and frequently shift my focus between community research, intervention development, and social advocacy, depending on the needs of the community and the stage of the engagement. My current work looks into [stuttering and telecommunication technologies](https://www.shaomei.info/pdfs/Stuttering_VC_preprint.pdf), investigating the experiences and challenges of people who stutter with telecommunication technologies such as videoconferencing tools and speech AI products. 
+
+My work has been supported by NSF's Responsible Design, Development, and Deployment of Technologies (ReDDDoT) program ([Award #2427710](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2427710)).
 
 To learn more about my prior and ongoing projects, please check out my [CV](http://www.shaomei.info/pages/curriculum-vitae.html), my list of [selected publications](http://www.shaomei.info/pages/publications.html), my work at [AImpower.org](https://aimpower.org), and my [Google Scholar Page](https://scholar.google.com/citations?user=Y0xVWqYAAAAJ).
 
@@ -26,9 +28,9 @@ To learn more about my prior and ongoing projects, please check out my [CV](http
 			
 	- **Opportunities** - *What are the opportunities for current and future technology to close the equity gaps online and offline*? 
   
-  2. **Design community-centric technology to deliver tangible benefits and level the playing field**.
+  2. **Co-design socio-technical solutions with the community to deliver tangible benefits and level the playing field**.
   
-     Informed by the knowledge from the previous domain, I also do lots of hand-on design & development work  in building innovative technologies  that empower people to overcome barriers and pursue their goals. My tech work falls into the following two areas:
+     Informed by the knowledge from the previous domain, I also do lots of hand-on design & development work in building tools and socio-technical infrastructures  that empower people to overcome barriers and pursue their goals. My tech work falls into the following two areas:
 	 
     - *Make* ***existing*** *technologies inclusive for all, pushing the envelope of accessibility beyond checklists and government requirements*.
 	
