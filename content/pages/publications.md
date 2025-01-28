@@ -3,6 +3,9 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
+
+- Our Collective Voices: The Social and Technical Values of a Grassroots Chinese Stuttered Speech Dataset. Jingjin Li, Qisheng Li, Rong Gong, Lezhi Wang, and Shaomei Wu. Under Review. [[manuscript]({static}/pdfs/FAccT25_StammerTalk_Dataset_manuscript.pdf)]
+
 - Speech AI for All: Promoting Accessibility, Fairness, Inclusivity, and Equity. Shaomei Wu, Kimi V. Wenzel, Jingjin Li, Qisheng Li, Alisha Pradhan, Raja Kushalnagar, Colin Lea, Allison Koenecke, Christian Vogler, Mark Hasegawa-Johnson, Norman Makoto Su, and Nan Bernstein Ratner. Workshop Proposal. Accepted to appear in Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25). 2025. [[pdf]({static}/pdfs/CHI25_Speech_AI_workshop.pdf)] 
 
 - AS-70: A Mandarin stuttered speech dataset for automatic speech recognition and stuttering event detection. Rong Gong, Hongfei Xue, Lezhi Wang, Xin Xu, Qisheng Li, Lei Xie, Hui Bu, Shaomei Wu, Jiaming Zhou, Yong Qin, Binbin Zhang, Jun Du, Jia Bin, Ming Li. In Proceedings of the InterSpeech Conference. 2024. [[preprint](http://arxiv.org/abs/2406.07256)]
