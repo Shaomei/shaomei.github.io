@@ -4,7 +4,13 @@ Date: 2020-03-22
 
 ### AI, HCI, Accessibility
 
-- Our Collective Voices: The Social and Technical Values of a Grassroots Chinese Stuttered Speech Dataset. Jingjin Li, Qisheng Li, Rong Gong, Lezhi Wang, and Shaomei Wu. Under Review. [[manuscript]({static}/pdfs/FAccT25_StammerTalk_Dataset_manuscript.pdf)]
+- Lost in Translation: Benchmarking Commercial Machine Translation Models for Dyslexic-Style Text. Gregory Price and Shaomei Wu. Under Review. 2025. [[manuscript]({static}/pdfs/NLPDisparity_preprint.pdf)]
+
+- J-j-j-just Stutter: Benchmarking Whisper’s Performance Disparities on Different Stuttering Patterns. Charan Sridhar, Shaomei Wu. Under Review. 2025. [[manuscript]({static}/pdfs/SEP28K_Whisper_benchmarking_preprint.pdf)]
+
+- Making Room for Speech Diversity: A 50 Year Retrospective of Speech Science and Technology through a Neurodivergent Lens. Rebecca Lietz, Jingjin Li, Peiyao Liu, Norman Su, Shaomei Wu. Under Review. 2025. [[manuscript]({static}/pdfs/Interspeech_2025_Scope_Review_manuscript.pdf)]
+
+- Our Collective Voices: The Social and Technical Values of a Grassroots Chinese Stuttered Speech Dataset. Jingjin Li, Qisheng Li, Rong Gong, Lezhi Wang, and Shaomei Wu. Under Review. 2025. [[manuscript]({static}/pdfs/FAccT25_StammerTalk_Dataset_manuscript.pdf)]
 
 - Speech AI for All: Promoting Accessibility, Fairness, Inclusivity, and Equity. Shaomei Wu, Kimi V. Wenzel, Jingjin Li, Qisheng Li, Alisha Pradhan, Raja Kushalnagar, Colin Lea, Allison Koenecke, Christian Vogler, Mark Hasegawa-Johnson, Norman Makoto Su, and Nan Bernstein Ratner. Workshop Proposal. Accepted to appear in Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25). 2025. [[pdf]({static}/pdfs/CHI25_Speech_AI_workshop.pdf)] 
 
