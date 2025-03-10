@@ -4,6 +4,8 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
+- **AI Risks and Biases for People with Disabilities**. Gues Lecture at Stanford University CS 377Q *Designing for Accessibility* (Winter 2025). Feb 27, 2025. [[Slides](https://www.canva.com/design/DAGgKH6ucDE/pZGnFa4eS3259quYKiZLXA/view?utm_content=DAGgKH6ucDE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h88e744d175)]
+
 - **Fair and Inclusive Speech AI for Stuttering**. Guest Lecture at University of Ottawa [DTO 5310](https://www.uottawa.ca/faculty-engineering/online-programs/master-interdisciplinary-artificial-intelligence) *Ethics for Design, AI and Robotics* (Winter 2024). Oct 24, 2024. [[Slides](https://www.canva.com/design/DAGUcAjHwCk/SJhiUWvm-zrQGP6gpnYd-w/view?utm_content=DAGUcAjHwCk&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
 
 - **Towards Fair and Inclusive Speech Recognition for Stuttering: Community-led Chinese Stuttered Speech Dataset Creation and Benchmarking**. Lighting talk at Workshop on Human Centered Machine Learning, hosted by Apple. Aug 8, 2024. Cupertino, CA. [[Slides](https://mycanvaaimpower.my.canva.site/hcml-workshop-lighting-talk), [Video](https://www.canva.com/design/DAGMABGVroU/hn56IYATdWcZxr0aqH7eOg/view?utm_content=DAGMABGVroU&utm_campaign=designshare&utm_medium=link&utm_source=editor#10)]
