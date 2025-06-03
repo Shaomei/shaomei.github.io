@@ -4,11 +4,11 @@ Date: 2020-03-22
 
 ### AI, HCI, Accessibility
 
-- J-j-j-just Stutter: Benchmarking Whisper’s Performance Disparities on Different Stuttering Patterns. Charan Sridhar, Shaomei Wu. Under Review. 2025. [[manuscript]({static}/pdfs/SEP28K_Whisper_benchmarking_preprint.pdf)]
+- J-j-j-just Stutter: Benchmarking Whisper’s Performance Disparities on Different Stuttering Patterns. Charan Sridhar, Shaomei Wu. Accepted to appear in Proceedings of the InterSpeech Conference. 2025. [[preprint]({static}/pdfs/Interspeech_SEP28K_Whisper_benchmarking_final.pdf)]
 
 - Making Room for Speech Diversity: A 50 Year Retrospective of Speech Science and Technology through a Neurodivergent Lens. Rebecca Lietz, Jingjin Li, Peiyao Liu, Norman Su, Shaomei Wu. Under Review. 2025. [[manuscript]({static}/pdfs/Interspeech_2025_Scope_Review_manuscript.pdf)]
 
-- Lost in Translation: Benchmarking Commercial Machine Translation Models for Dyslexic-Style Text. Gregory Price and Shaomei Wu. Accepted to appear in Findings of ACL. 2025. [[manuscript]({static}/pdfs/NLPDisparity_preprint.pdf)]
+- Lost in Translation: Benchmarking Commercial Machine Translation Models for Dyslexic-Style Text. Gregory Price and Shaomei Wu. Accepted to appear in Findings of ACL. 2025. [[preprint]({static}/pdfs/NLPDisparity_ACL2025_final.pdf)]
 
 - Our Collective Voices: The Social and Technical Values of a Grassroots Chinese Stuttered Speech Dataset. Jingjin Li, Qisheng Li, Rong Gong, Lezhi Wang, and Shaomei Wu. Accepted to appear in Proceedings of the ACM FAccT conference. 2025. [[preprint]({static}/pdfs/FAccT25_Our_collective_voices_preprint.pdf)]
 
