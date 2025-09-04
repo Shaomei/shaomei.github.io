@@ -3,14 +3,15 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
+- Govern With, Not For: Understanding the Stuttering Community’s Preferences and Goals for Speech AI Data Governance in the US and China. Jingjin Li, Peiyao Liu, Rebecca Lietz, Ningjing Tang, Norman Makoto Su, and Shaomei Wu. In Proc. of AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES '25). 2025. [[preprint]({static}/pdfs/AIES25_governance.pdf))
 
-- J-j-j-just Stutter: Benchmarking Whisper’s Performance Disparities on Different Stuttering Patterns. Charan Sridhar, Shaomei Wu. Accepted to appear in Proceedings of the InterSpeech Conference. 2025. [[preprint]({static}/pdfs/Interspeech_SEP28K_Whisper_benchmarking_final.pdf)]
+- [J-j-j-just Stutter: Benchmarking Whisper’s Performance Disparities on Different Stuttering Patterns.](https://www.isca-archive.org/interspeech_2025/sridhar25_interspeech.html#) Charan Sridhar, Shaomei Wu. Proc. InterSpeech Conference 2025, 3753-3757, doi: 10.21437/Interspeech.2025-2700 [[preprint]({static}/pdfs/Interspeech_SEP28K_Whisper_benchmarking_final.pdf), [presentation](https://youtu.be/brqg5J7FBWM)]
 
 - Making Room for Speech Diversity: A 50 Year Retrospective of Speech Science and Technology through a Neurodivergent Lens. Rebecca Lietz, Jingjin Li, Peiyao Liu, Norman Su, Shaomei Wu. Under Review. 2025. [[manuscript]({static}/pdfs/Interspeech_2025_Scope_Review_manuscript.pdf)]
 
-- Lost in Translation: Benchmarking Commercial Machine Translation Models for Dyslexic-Style Text. Gregory Price and Shaomei Wu. Accepted to appear in Findings of ACL. 2025. [[preprint]({static}/pdfs/NLPDisparity_ACL2025_final.pdf)]
+- [Lost in Translation: Benchmarking Commercial Machine Translation Models for Dyslexic-Style Text.](https://aclanthology.org/2025.findings-acl.708/) Gregory Price and Shaomei Wu. In Findings of the Association for Computational Linguistics: ACL 2025, pages 13771–13782, Vienna, Austria. Association for Computational Linguistics. [[preprint]({static}/pdfs/NLPDisparity_ACL2025_final.pdf)]
 
-- Our Collective Voices: The Social and Technical Values of a Grassroots Chinese Stuttered Speech Dataset. Jingjin Li, Qisheng Li, Rong Gong, Lezhi Wang, and Shaomei Wu. Accepted to appear in Proceedings of the ACM FAccT conference. 2025. [[preprint]({static}/pdfs/FAccT25_Our_collective_voices_preprint.pdf)]
+- [Our Collective Voices: The Social and Technical Values of a Grassroots Chinese Stuttered Speech Dataset.](https://dl.acm.org/doi/10.1145/3715275.3732179) Jingjin Li, Qisheng Li, Rong Gong, Lezhi Wang, and Shaomei Wu. In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT '25). Pages 2768 - 2783. doi:10.1145/3715275.3732179. 2025. [[preprint]({static}/pdfs/FAccT25_Our_collective_voices_preprint.pdf)]
 
 - [Speech AI for All: Promoting Accessibility, Fairness, Inclusivity, and Equity](https://dl.acm.org/doi/10.1145/3706599.3706746). Shaomei Wu, Kimi V. Wenzel, Jingjin Li, Qisheng Li, Alisha Pradhan, Raja Kushalnagar, Colin Lea, Allison Koenecke, Christian Vogler, Mark Hasegawa-Johnson, Norman Makoto Su, and Nan Bernstein Ratner. CHI Workshop Proposal. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25). 2025. [[pdf]({static}/pdfs/CHI25_Speech_AI_workshop.pdf)] [[workshop website](https://sites.google.com/aimpower.org/speech-ai-workshop/home)] 
 

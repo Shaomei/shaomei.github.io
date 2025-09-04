@@ -26,6 +26,7 @@ MENUITEMS = (
     ('CV', '/pages/curriculum-vitae.html'),
     ('Publications', '/pages/publications.html'),
     ('Speaking', '/pages/speaking.html'),
+    ('Press', '/pages/press.html'),
     ('Contact', '/pages/contact.html'),
     )
 

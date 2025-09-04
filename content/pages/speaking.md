@@ -4,6 +4,14 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
+- **口吃也是一种残障吗？一名前脸书无障碍官员的身份管理与认同之路 (Is Stuttering a Disability? One ex-Facebook Accessibility Researcher's Journey on Disability Identity Recognition and Management)**  (in Chinese). Aug 16, 2025. Featured at Podcast [两岸无障碍](https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E5%B2%B8%E6%97%A0%E9%9A%9C%E7%A2%8D/id1540270057), [Episode 144](https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E5%B2%B8%E6%97%A0%E9%9A%9C%E7%A2%8D144-%E5%8F%A3%E5%90%83%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E6%AE%8B%E9%9A%9C%E5%90%97-%E4%B8%80%E5%90%8D%E5%89%8D%E8%84%B8%E4%B9%A6%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%AE%98%E5%91%98%E7%9A%84%E8%BA%AB%E4%BB%BD%E7%AE%A1%E7%90%86%E4%B8%8E%E8%AE%A4%E5%90%8C%E4%B9%8B%E8%B7%AF/id1540270057?i=1000722260636).
+
+- **Fair and Inclusive Speech AI:  for People Who Stutter, with People Who Stutter, by People Who Stutter.** Invited Talk at National Taiwan Univeristy. Taipei, Taiwan. Aug 6, 2025. [[Slides](https://www.canva.com/design/DAGvGbitCzA/PQkCVEQVRg78rRBjXCMgnw/view?utm_content=DAGvGbitCzA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9d16f055e0)]
+
+- [**无障碍需求很小众吗？它可以跟每个人都有关系 (Is Accessibility Just a Niche? It is Relevant to Everyone)**](https://podcasts.apple.com/cn/podcast/%E6%97%A0%E9%9A%9C%E7%A2%8D%E9%9C%80%E6%B1%82%E5%BE%88%E5%B0%8F%E4%BC%97%E5%90%97-%E5%AE%83%E5%8F%AF%E4%BB%A5%E8%B7%9F%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%85%B3%E7%B3%BB/id1745853892?i=1000712658977) (in Chinese). Jun 12, 2025. Featured at Podcast [果壳时间 (Guokr Time)](https://podcasts.apple.com/cn/podcast/%E6%9E%9C%E5%A3%B3%E6%97%B6%E9%97%B4/id1745853892). 
+
+- **Speech AI for All: Promoting Accessibility, Fairness, Inclusivity, and Equity.** Workshop Opening Speech. Yokohama, Japan. April 18, 2025. [[Slides]({static}/pdfs/chi2025_speech_ai_for_all_slides.pdf)]
+
 - **AI Risks and Biases for People with Disabilities**. Gues Lecture at Stanford University CS 377Q *Designing for Accessibility* (Winter 2025). Feb 27, 2025. [[Slides](https://www.canva.com/design/DAGgKH6ucDE/pZGnFa4eS3259quYKiZLXA/view?utm_content=DAGgKH6ucDE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h88e744d175)]
 
 - **Fair and Inclusive Speech AI for Stuttering**. Guest Lecture at University of Ottawa [DTO 5310](https://www.uottawa.ca/faculty-engineering/online-programs/master-interdisciplinary-artificial-intelligence) *Ethics for Design, AI and Robotics* (Winter 2024). Oct 24, 2024. [[Slides](https://www.canva.com/design/DAGUcAjHwCk/SJhiUWvm-zrQGP6gpnYd-w/view?utm_content=DAGUcAjHwCk&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
