@@ -4,11 +4,24 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
-- **口吃也是一种残障吗？一名前脸书无障碍官员的身份管理与认同之路 (Is Stuttering a Disability? One ex-Facebook Accessibility Researcher's Journey on Disability Identity Recognition and Management)**  (in Chinese). Aug 16, 2025. Featured at Podcast [两岸无障碍](https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E5%B2%B8%E6%97%A0%E9%9A%9C%E7%A2%8D/id1540270057), [Episode 144](https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E5%B2%B8%E6%97%A0%E9%9A%9C%E7%A2%8D144-%E5%8F%A3%E5%90%83%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E6%AE%8B%E9%9A%9C%E5%90%97-%E4%B8%80%E5%90%8D%E5%89%8D%E8%84%B8%E4%B9%A6%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%AE%98%E5%91%98%E7%9A%84%E8%BA%AB%E4%BB%BD%E7%AE%A1%E7%90%86%E4%B8%8E%E8%AE%A4%E5%90%8C%E4%B9%8B%E8%B7%AF/id1540270057?i=1000722260636).
+- **Make Our Voices Heard: Co-creating Communication Technologies 
+for, with, and by People Who Stutter**. University of Tsukuba. Tsukuba, Japan. Nov 18, 2025
+
+- **Govern With, Not For: Understanding the Stuttering Community’s Preferences and Goals for Speech AI Data Governance in the US and China**. Conference co-presnetation at AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES '25). Oct 21, 2025. [[Slides]({static}/pdfs/aies2025_governance_slides.pdf)] 
+
+- **Accessible Futures: Shaping Policy for Disability, Technology, and AI**. Panelist. [Cornell Tech Accessibility Summit](https://tech.cornell.edu/cornell-tech-accessibility-summit/). New York City. Oct 9, 2025. 
+
+- **Finding Power in Shared Vulnerability: From Silicon Valley to Community Technology**. Invited Presentation. [Cornell Tech Accessibility Summit](https://tech.cornell.edu/cornell-tech-accessibility-summit/). New York City. Oct 9, 2025. 
+
+- **脸书这么大一厂，也养不起个无障碍优化项目吗？** Featured at Podcast  [两岸无障碍](https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E5%B2%B8%E6%97%A0%E9%9A%9C%E7%A2%8D/id1540270057), [Episode 145](https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E5%B2%B8%E6%97%A0%E9%9A%9C%E7%A2%8D145-%E8%84%B8%E4%B9%A6%E8%BF%99%E4%B9%88%E5%A4%A7%E4%B8%80%E5%8E%82-%E4%B9%9F%E5%85%BB%E4%B8%8D%E8%B5%B7%E4%B8%AA%E6%97%A0%E9%9A%9C%E7%A2%8D%E4%BC%98%E5%8C%96%E9%A1%B9%E7%9B%AE%E5%90%97/id1540270057?i=1000725534088). Sep 8, 2025.
+
+- **口吃也是一种残障吗？一名前脸书无障碍官员的身份管理与认同之路 (Is Stuttering a Disability? One ex-Facebook Accessibility Researcher's Journey on Disability Identity Recognition and Management)**  (in Chinese). Featured at Podcast [两岸无障碍](https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E5%B2%B8%E6%97%A0%E9%9A%9C%E7%A2%8D/id1540270057), [Episode 144](https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E5%B2%B8%E6%97%A0%E9%9A%9C%E7%A2%8D144-%E5%8F%A3%E5%90%83%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E6%AE%8B%E9%9A%9C%E5%90%97-%E4%B8%80%E5%90%8D%E5%89%8D%E8%84%B8%E4%B9%A6%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%AE%98%E5%91%98%E7%9A%84%E8%BA%AB%E4%BB%BD%E7%AE%A1%E7%90%86%E4%B8%8E%E8%AE%A4%E5%90%8C%E4%B9%8B%E8%B7%AF/id1540270057?i=1000722260636). Aug 16, 2025.
 
 - **Fair and Inclusive Speech AI:  for People Who Stutter, with People Who Stutter, by People Who Stutter.** Invited Talk at National Taiwan Univeristy. Taipei, Taiwan. Aug 6, 2025. [[Slides](https://www.canva.com/design/DAGvGbitCzA/PQkCVEQVRg78rRBjXCMgnw/view?utm_content=DAGvGbitCzA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9d16f055e0)]
 
 - [**无障碍需求很小众吗？它可以跟每个人都有关系 (Is Accessibility Just a Niche? It is Relevant to Everyone)**](https://podcasts.apple.com/cn/podcast/%E6%97%A0%E9%9A%9C%E7%A2%8D%E9%9C%80%E6%B1%82%E5%BE%88%E5%B0%8F%E4%BC%97%E5%90%97-%E5%AE%83%E5%8F%AF%E4%BB%A5%E8%B7%9F%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%85%B3%E7%B3%BB/id1745853892?i=1000712658977) (in Chinese). Jun 12, 2025. Featured at Podcast [果壳时间 (Guokr Time)](https://podcasts.apple.com/cn/podcast/%E6%9E%9C%E5%A3%B3%E6%97%B6%E9%97%B4/id1745853892). 
+
+- **Fair and Inclusive Speech AI: for People Who Stutter, with People Who Stutter, by People Who Stutter** (in Chinese). Invited presentation. 中文构音障碍线上研讨会. Jun 5, 2025.
 
 - **Speech AI for All: Promoting Accessibility, Fairness, Inclusivity, and Equity.** Workshop Opening Speech. Yokohama, Japan. April 18, 2025. [[Slides]({static}/pdfs/chi2025_speech_ai_for_all_slides.pdf)]
 

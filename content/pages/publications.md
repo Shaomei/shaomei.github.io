@@ -3,7 +3,13 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
-- Govern With, Not For: Understanding the Stuttering Community’s Preferences and Goals for Speech AI Data Governance in the US and China. Jingjin Li, Peiyao Liu, Rebecca Lietz, Ningjing Tang, Norman Makoto Su, and Shaomei Wu. In Proc. of AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES '25). 2025. [[preprint]({static}/pdfs/AIES25_governance.pdf))
+- Speech AI for All: Challenging Deficit-based Approaches to Speech Science and Technology. Robin Netzorg, Juliana Francis, Brooklyn Shepard, Kimi Wenzel, Norman Makoto Su, Anna Leschanowsky, Abraham Glasser, Bowon Lee, Christine Murad, Cosmin Munteanu, Jay Cunningham, Shaomei Wu. InterSpeech '26 Special Session Proposal. 2026. [[preprint]({static}/pdfs/speechai4all_interspeech26.pdf)] [[workshop website](https://sites.google.com/aimpower.org/speechai4all-at-interspeech/home)]
+
+- [Speech AI for All: The What, How, and Who of Measurement](https://chi2026.acm.org/workshops/accepted/#w53-speech-ai-for-all-the-what-how-and-who-of-measurement). Kimi Wenzel, Alisha Pradhan, Maria Teleki, Tobias M Weinberg, Robin Netzorg, Allyssa Hillary Zisk, Anna Seo Gyeong Choi, Jingjin Li, Raja Kushalnagar, Colin Lea, Abraham Glasser, Christian Vogler, Ly Xīnzhèn M. Zhǎngsūn, Nan Bernstein Ratner, Allison Koenecke, Karen Nakamura, Shaomei Wu. CHI 26 Workshop Proposal. 2026. [[preprint]({static}/pdfs/speechai4all_chi26.pdf)] [[workshop website](https://sites.google.com/andrew.cmu.edu/speechai4all/home)]
+
+- [ACM TechBrief: Automated Speech Recognition](https://dl.acm.org/doi/full/10.1145/3779316). Allison Koenecke, Niranjan Sivakumar, Jingjin Li, Shaomei Wu. ACM TechBriefs, Winter 2025, Issue 15. December 11, 2025. 
+
+- [Govern With, Not For: Understanding the Stuttering Community’s Preferences and Goals for Speech AI Data Governance in the US and China](https://ojs.aaai.org/index.php/AIES/article/view/36654). Jingjin Li, Peiyao Liu, Rebecca Lietz, Ningjing Tang, Norman Makoto Su, and Shaomei Wu. In [Proc. of the Eighth AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES '25)](https://www.aies-conference.com/2025/proceedings/). 2025. **Best Paper Award** [[preprint]({static}/pdfs/AIES25_governance.pdf))
 
 - [J-j-j-just Stutter: Benchmarking Whisper’s Performance Disparities on Different Stuttering Patterns.](https://www.isca-archive.org/interspeech_2025/sridhar25_interspeech.html#) Charan Sridhar, Shaomei Wu. Proc. InterSpeech Conference 2025, 3753-3757, doi: 10.21437/Interspeech.2025-2700 [[preprint]({static}/pdfs/Interspeech_SEP28K_Whisper_benchmarking_final.pdf), [presentation](https://youtu.be/brqg5J7FBWM)]
 
