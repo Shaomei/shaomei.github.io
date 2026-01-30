@@ -3,6 +3,9 @@ Authors: Shaomei Wu
 Date: 2020-03-22
 
 ### AI, HCI, Accessibility
+
+- Disability-First AI Dataset Annotation: Co-designing Stuttered Speech Annotation Guidelines with People Who Stutter. Xinru Tang, Jingjin Li, Shaomei Wu.  In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026). [[pdf]({static}/pdfs/chi26-stuttering-annotation.pdf)]
+
 - Speech AI for All: Challenging Deficit-based Approaches to Speech Science and Technology. Robin Netzorg, Juliana Francis, Brooklyn Shepard, Kimi Wenzel, Norman Makoto Su, Anna Leschanowsky, Abraham Glasser, Bowon Lee, Christine Murad, Cosmin Munteanu, Jay Cunningham, Shaomei Wu. InterSpeech '26 Special Session Proposal. 2026. [[preprint]({static}/pdfs/speechai4all_interspeech26.pdf)] [[workshop website](https://sites.google.com/aimpower.org/speechai4all-at-interspeech/home)]
 
 - [Speech AI for All: The What, How, and Who of Measurement](https://chi2026.acm.org/workshops/accepted/#w53-speech-ai-for-all-the-what-how-and-who-of-measurement). Kimi Wenzel, Alisha Pradhan, Maria Teleki, Tobias M Weinberg, Robin Netzorg, Allyssa Hillary Zisk, Anna Seo Gyeong Choi, Jingjin Li, Raja Kushalnagar, Colin Lea, Abraham Glasser, Christian Vogler, Ly Xīnzhèn M. Zhǎngsūn, Nan Bernstein Ratner, Allison Koenecke, Karen Nakamura, Shaomei Wu. CHI 26 Workshop Proposal. 2026. [[preprint]({static}/pdfs/speechai4all_chi26.pdf)] [[workshop website](https://sites.google.com/andrew.cmu.edu/speechai4all/home)]
