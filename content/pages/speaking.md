@@ -4,8 +4,9 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
-- **Make Our Voices Heard: Co-creating Communication Technologies 
-for, with, and by People Who Stutter**. University of Tsukuba. Tsukuba, Japan. Nov 18, 2025
+- **Design for Speech Accessibility**. Gues Lecture at Stanford University *CS 377Q | ME 214: Designing for Accessibility* (Winter 2026). Feb 26, 2026. [[Slides](https://www.canva.com/design/DAHCYKremtM/YOFWh3fXwFOTbW7gMweeUw/view?utm_content=DAHCYKremtM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he28ce1bf1f)]
+
+- **Make Our Voices Heard: Co-creating Communication Technologies for, with, and by People Who Stutter**. University of Tsukuba. Tsukuba, Japan. Nov 18, 2025
 
 - **Govern With, Not For: Understanding the Stuttering Community’s Preferences and Goals for Speech AI Data Governance in the US and China**. Conference co-presnetation at AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES '25). Oct 21, 2025. [[Slides]({static}/pdfs/aies2025_governance_slides.pdf)] 
 

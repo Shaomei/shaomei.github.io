@@ -2,7 +2,7 @@ Title: Home
 Authors: Shaomei Wu
 Date: 2022-10-10
 
-Hi, I'm Shaomei Wu. I study, design, and build technologies with marginalized communities to dismantle barriers and seek social justice. My work takes place at the intersection of community, technology, and advocacy, and I am particularly interested in understanding and challenging structural marginalization materialized through dominant technologies such as AI and social media.
+Hi, I'm Shaomei Wu. I study, design, and build technologies with marginalized communities to dismantle barriers and maximize public interests. My work takes place at the intersection of community, technology, and advocacy. I am particularly interested in understanding and challenging structural marginalization materialized through pervasive technologies such as AI and social media.
 
 I am a fan of [Afsaneh Rigot](https://cyber.harvard.edu/people/afsaneh-rigot)‘s [Design From the Margins](https://www.belfercenter.org/sites/default/files/files/publication/TAPP-Afsaneh_Design%20From%20the%20Margins_Final_220514.pdf) approach and frequently shift my focus between community research, intervention development, and social advocacy, depending on the needs of the community and the stage of the engagement. My current work looks into [speech diversity and communication technologies](https://aimpower.org/projects/), investigating the experiences and challenges of people who stutter with telecommunication technologies such as videoconferencing tools and speech AI technologies, and co-developing community-centered solutions to address these challenges.
 
