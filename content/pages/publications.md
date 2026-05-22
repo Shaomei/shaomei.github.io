@@ -4,6 +4,8 @@ Date: 2020-03-22
 
 ### AI, HCI, Accessibility
 
+- Cripping AI: Reimagining AI Through Lived Disability Experiences. Xinru Tang, Ting-an Lin, Jingjin Li, Shaomei Wu. In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT '26). doi:10.1145/3805689.3806744. 2026. [[preprint]({static}/pdfs/FAccT26_cripping_AI.pdf)]
+
 - Disability-First AI Dataset Annotation: Co-designing Stuttered Speech Annotation Guidelines with People Who Stutter. Xinru Tang, Jingjin Li, Shaomei Wu.  In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026). [[pdf]({static}/pdfs/chi26-stuttering-annotation.pdf)]
 
 - Speech AI for All: Challenging Deficit-based Approaches to Speech Science and Technology. Robin Netzorg, Juliana Francis, Brooklyn Shepard, Kimi Wenzel, Norman Makoto Su, Anna Leschanowsky, Abraham Glasser, Bowon Lee, Christine Murad, Cosmin Munteanu, Jay Cunningham, Shaomei Wu. InterSpeech '26 Special Session Proposal. 2026. [[preprint]({static}/pdfs/speechai4all_interspeech26.pdf)] [[workshop website](https://sites.google.com/aimpower.org/speechai4all-at-interspeech/home)]
