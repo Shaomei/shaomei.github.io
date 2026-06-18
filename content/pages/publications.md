@@ -4,9 +4,11 @@ Date: 2020-03-22
 
 ### AI, HCI, Accessibility
 
+- Making Room for Speech Diversity: A 50 Year Retrospective of Speech Science and Technology through a Neurodivergent Lens. Rebecca Lietz, Jingjin Li, Peiyao Liu, Jennifer Chien, Norman Makoto Su, Shaomei Wu. Proc. InterSpeech Conference 2026. [[preprint]({static}/pdfs/Interspeech_2026_Scope_Review.pdf)]
+
 - Cripping AI: Reimagining AI Through Lived Disability Experiences. Xinru Tang, Ting-an Lin, Jingjin Li, Shaomei Wu. In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT '26). doi:10.1145/3805689.3806744. 2026. [[preprint]({static}/pdfs/FAccT26_cripping_AI.pdf)]
 
-- Disability-First AI Dataset Annotation: Co-designing Stuttered Speech Annotation Guidelines with People Who Stutter. Xinru Tang, Jingjin Li, Shaomei Wu.  In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026). [[pdf]({static}/pdfs/chi26-stuttering-annotation.pdf)]
+- [Disability-First AI Dataset Annotation: Co-designing Stuttered Speech Annotation Guidelines with People Who Stutter](https://dl.acm.org/doi/10.1145/3772318.3790405). Xinru Tang, Jingjin Li, Shaomei Wu.  In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026). [[pdf]({static}/pdfs/chi26-stuttering-annotation.pdf)]
 
 - Speech AI for All: Challenging Deficit-based Approaches to Speech Science and Technology. Robin Netzorg, Juliana Francis, Brooklyn Shepard, Kimi Wenzel, Norman Makoto Su, Anna Leschanowsky, Abraham Glasser, Bowon Lee, Christine Murad, Cosmin Munteanu, Jay Cunningham, Shaomei Wu. InterSpeech '26 Special Session Proposal. 2026. [[preprint]({static}/pdfs/speechai4all_interspeech26.pdf)] [[workshop website](https://sites.google.com/aimpower.org/speechai4all-at-interspeech/home)]
 

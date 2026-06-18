@@ -4,6 +4,14 @@ Date: 2023-01-26
 
 Here are some of my recent and upcoming speaking events.
 
+- **Advancing Inclusive AI: Rethinking How We Collect and Use Disability Data**. Panel Speaker. [M-Enabling Summit 2026](https://www.m-enabling.com/event/c303ac78-b6b9-45b3-a375-10f9ea7bc56b/m-enabling-summit?environment=P2). Arlington, Virginia. Oct 7, 2026. 
+
+- **AI: Friend or Foe?**. Plenary Speaker. [STAMMAFEST '26](https://stammafest.org/programme). Northampton, UK. Aug 22, 2026.
+
+- **Stuttering and Disability Summit**. Invited Speaker at SxSW, Austin, Texas. Mar 17, 2026.
+
+- **Amplifying Marginalized Voices in Technology: for, with, and by People Who Stutter**. Invited presentation at [START ACCESS](https://www.aapd.com/start-access/), hosted by [American Association of People with Disabilities (AAPD)](https://www.aapd.com/). Mar 16, 2026.
+
 - **Design for Speech Accessibility**. Gues Lecture at Stanford University *CS 377Q | ME 214: Designing for Accessibility* (Winter 2026). Feb 26, 2026. [[Slides](https://www.canva.com/design/DAHCYKremtM/YOFWh3fXwFOTbW7gMweeUw/view?utm_content=DAHCYKremtM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he28ce1bf1f)]
 
 - **Make Our Voices Heard: Co-creating Communication Technologies for, with, and by People Who Stutter**. University of Tsukuba. Tsukuba, Japan. Nov 18, 2025
