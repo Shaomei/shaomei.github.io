@@ -4,9 +4,13 @@ Date: 2020-03-22
 
 ### AI, HCI, Accessibility
 
+- The Effect of Self-Disclosure on Perceived Competency of People Who Stutter in Online Job Interviews: A Cross-Cultural Study. Yingting Chen, Christopher Constantino, Chi-Lan Yang, Mizuki Aoki, Shaomei Wu. In Proc. of the 28th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '26). October 25--28, 2026, Vila Nova de Gaia, Portugal. ACM, New York, NY, USA, 23 pages. https://doi.org/10.1145/3797867.3828982. 2026. [[preprint]({static}/pdfs/ASSETS26_self_disclosure.pdf)]
+
+- Designing Beyond Fluency: Imagining Speech Technology through Speculative Design with People Who Stutter. Peiyao Liu, Jingjin Li, Rebecca Lietz, Shaomei Wu, Norman Makoto Su. In Proc. of the 28th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '26). October 25--28, 2026, Vila Nova de Gaia, Portugal. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/3797867.3828991. 2026. [[preprint]({static}/pdfs/ASSETS26_speculative_design.pdf)]
+
 - Making Room for Speech Diversity: A 50 Year Retrospective of Speech Science and Technology through a Neurodivergent Lens. Rebecca Lietz, Jingjin Li, Peiyao Liu, Jennifer Chien, Norman Makoto Su, Shaomei Wu. Proc. InterSpeech Conference 2026. [[preprint]({static}/pdfs/Interspeech_2026_Scope_Review.pdf)]
 
-- Cripping AI: Reimagining AI Through Lived Disability Experiences. Xinru Tang, Ting-an Lin, Jingjin Li, Shaomei Wu. In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT '26). doi:10.1145/3805689.3806744. 2026. [[preprint]({static}/pdfs/FAccT26_cripping_AI.pdf)]
+- [Cripping AI: Reimagining AI Through Lived Disability Experiences](https://dl.acm.org/doi/10.1145/3805689.3806744). Xinru Tang, Ting-an Lin, Jingjin Li, Shaomei Wu. In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT '26). doi:10.1145/3805689.3806744. 2026. [[preprint]({static}/pdfs/FAccT26_cripping_AI.pdf)]
 
 - [Disability-First AI Dataset Annotation: Co-designing Stuttered Speech Annotation Guidelines with People Who Stutter](https://dl.acm.org/doi/10.1145/3772318.3790405). Xinru Tang, Jingjin Li, Shaomei Wu.  In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI 2026). [[pdf]({static}/pdfs/chi26-stuttering-annotation.pdf)]
 
@@ -19,8 +23,6 @@ Date: 2020-03-22
 - [Govern With, Not For: Understanding the Stuttering Community’s Preferences and Goals for Speech AI Data Governance in the US and China](https://ojs.aaai.org/index.php/AIES/article/view/36654). Jingjin Li, Peiyao Liu, Rebecca Lietz, Ningjing Tang, Norman Makoto Su, and Shaomei Wu. In [Proc. of the Eighth AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES '25)](https://www.aies-conference.com/2025/proceedings/). 2025. **Best Paper Award** [[preprint]({static}/pdfs/AIES25_governance.pdf))
 
 - [J-j-j-just Stutter: Benchmarking Whisper’s Performance Disparities on Different Stuttering Patterns.](https://www.isca-archive.org/interspeech_2025/sridhar25_interspeech.html#) Charan Sridhar, Shaomei Wu. Proc. InterSpeech Conference 2025, 3753-3757, doi: 10.21437/Interspeech.2025-2700 [[preprint]({static}/pdfs/Interspeech_SEP28K_Whisper_benchmarking_final.pdf), [presentation](https://youtu.be/brqg5J7FBWM)]
-
-- Making Room for Speech Diversity: A 50 Year Retrospective of Speech Science and Technology through a Neurodivergent Lens. Rebecca Lietz, Jingjin Li, Peiyao Liu, Norman Su, Shaomei Wu. Under Review. 2025. [[manuscript]({static}/pdfs/Interspeech_2025_Scope_Review_manuscript.pdf)]
 
 - [Lost in Translation: Benchmarking Commercial Machine Translation Models for Dyslexic-Style Text.](https://aclanthology.org/2025.findings-acl.708/) Gregory Price and Shaomei Wu. In Findings of the Association for Computational Linguistics: ACL 2025, pages 13771–13782, Vienna, Austria. Association for Computational Linguistics. [[preprint]({static}/pdfs/NLPDisparity_ACL2025_final.pdf)]
 
